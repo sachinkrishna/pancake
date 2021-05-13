@@ -12,15 +12,15 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'https://swapdogs.herokuapp.com/#/swap',
+        href: 'https://relaxed-hermann-c8696a.netlify.app/#/swap',
       },
       {
         label: 'Liquidity',
-        href: 'https://swapdogs.herokuapp.com/#/pool',
+        href: 'https://relaxed-hermann-c8696a.netlify.app/#/pool',
       },
       {
         label: 'LP Migration',
-        href: 'https://swapdogs.herokuapp.com/#/migrate',
+        href: 'https://relaxed-hermann-c8696a.netlify.app/#/migrate',
       },
       
     ],
